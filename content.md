@@ -131,14 +131,16 @@ Privacy & terms
 
 ## Sections
 
+- Navigation
 - Hero
-- Features
-- How it works
-- Diets
-- meals
-- CTA
-- Pricing
-- Gallery
-- Testimonials
 - Featured In
+- How it works
+- meals (and list of diets)
+- Testimonials + gallery
+- Pricing + features
+- CTA
 - Footer
+
+<!-- uifaces
+make tints and shades.com
+ -->
