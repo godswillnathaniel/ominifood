@@ -143,4 +143,5 @@ Privacy & terms
 
 <!-- uifaces
 make tints and shades.com
+coolors (for contrast checking)
  -->
