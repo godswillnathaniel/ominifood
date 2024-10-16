@@ -71,6 +71,10 @@ a {
     text-decoration: none;
 }
 
+strong {
+    font-weight: 500;
+}
+
 body {
     font-family: "Rubik", sans-serif;
     line-height: 1;
@@ -132,7 +136,7 @@ body {
     padding: 1.6rem 3.2rem;
     border-radius: 9px;
 
-    transition: background-color .3s;
+    transition: all .3s;
 }
 
 .btn--full:link,
